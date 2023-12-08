@@ -29,7 +29,7 @@ const FeedbackTable = () => {
       return null;
     }
 
-    const headers = Object.keys(feedback[0]); // Отримати ключі першого об'єкта (першого feedback)
+    // const headers = Object.keys(feedback[0]); // Отримати ключі першого об'єкта (першого feedback)
 
     // Вибрати тільки певні поля для виведення в таблиці
     const selectedHeaders = ['name', 'email', 'phone', 'coment', 'sendDate'];
