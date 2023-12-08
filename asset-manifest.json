@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-studio-3.0-admin/static/css/main.4445bfd7.css",
+    "main.js": "/web-studio-3.0-admin/static/js/main.ad86789c.js",
+    "index.html": "/web-studio-3.0-admin/index.html",
+    "main.4445bfd7.css.map": "/web-studio-3.0-admin/static/css/main.4445bfd7.css.map",
+    "main.ad86789c.js.map": "/web-studio-3.0-admin/static/js/main.ad86789c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4445bfd7.css",
+    "static/js/main.ad86789c.js"
+  ]
+}
